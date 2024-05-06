@@ -12,9 +12,9 @@ public class LoginPage extends JFrame implements ActionListener {
     private JButton loginButton, cancelButton, registerButton;
 
     // Database connection details
-    private static final String DATABASE_URL = "jdbc:mysql://localhost:3306/lottery";
-    private static final String USERNAME = "root";
-    private static final String PASSWORD = "Hrpd@411";
+    private static final String DATABASE_URL = "your database url";
+    private static final String USERNAME = "your database name";
+    private static final String PASSWORD = "your password";
 
 
     public LoginPage() {
