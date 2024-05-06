@@ -4,9 +4,9 @@ public class ConnectToSQL {
 
     public static void main(String[] args) {
         // Replace these with your own database information
-        String databaseURL = "jdbc:mysql://localhost:3306/lottery";
-        String username = "root";
-        String password = "Hrpd@411";
+        String databaseURL = "your database url";
+        String username = "your database name";
+        String password = "your password";
 
         Connection connection = null;
 
